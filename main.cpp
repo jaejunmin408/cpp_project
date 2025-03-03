@@ -4,7 +4,7 @@
 
 int main(int, char**){
     MyClass my_class1;
-    MyClass my_class2(125);
+    MyClass my_class2(300);
 
     my_class1.Print();
     my_class2.Print();
